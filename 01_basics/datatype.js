@@ -3,8 +3,10 @@
 //bigint
 // string=""
 // Boolean
-// null
-// undefined
+// null=standalone value
+// undefined value not assigned
+// Symbol
+// object 
 console.log(typeof undefined);
 console.log(typeof null);
 
