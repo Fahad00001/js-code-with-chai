@@ -14,3 +14,7 @@ console.log(anotherarray);
 console.log(Array.from('afahad'));
 console.log(Array.from({name:'fahad'}));//intersting
 
+
+
+
+
